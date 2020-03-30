@@ -1,0 +1,9 @@
+<resources>
+<!--    <string name="app_name">Hello World</string>-->
+    <string name="txv">Hellow World</string>
+    <string name="button">放大</string>
+    <string name="confirm">修改</string>
+    <string name="name">输入姓名</string>
+    <string name="kg">关闭</string>
+    <string name="switch1">Switch</string>
+</resources>
